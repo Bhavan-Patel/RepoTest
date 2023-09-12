@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is BC21-D593
+
+ Directory of C:\Users\Terri Haley\Desktop\Gitproject
+
+09/12/2023  03:46 PM    <DIR>          .
+09/12/2023  03:46 PM    <DIR>          ..
+09/12/2023  03:46 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  158,678,839,296 bytes free
